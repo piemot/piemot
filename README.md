@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @piemot
 - 👀 I’m interested in coding, baking, and reading
-- 🌱 I’m currently learning Python, focusing on discord.py
-- 💞️ I’m looking to collaborate on a discord bot if you're interested
 - 📫 How to reach me: via GitHub
