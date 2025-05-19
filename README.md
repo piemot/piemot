@@ -10,6 +10,7 @@ usually TypeScript or Rust.
 - [ActivityRank](https://activityrank.me) • A Discord bot (used in 120,000 servers) to track the participation and activity of users
 - I've been [following](https://github.com/piemot/raytracing) Peter Shirley's [*Ray Tracing in One Weekend*](https://raytracing.github.io/)
    series (of course, rewriting it in Rust 🦀)
+- [SpruceBytes](https://github.com/piemot/spruce) • a handbuilt Astro content-based site for course notes and blog posts
 
 ## Tech Stack
 
