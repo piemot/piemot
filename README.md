@@ -4,20 +4,9 @@
 </h3>
 
 Hiya! I'm Pierson. I'm a full-stack developer that loves programming across various languages -
-usually TypeScript or Rust.
+usually TypeScript or Rust. I'm interested in systems, embedded software, and distributed applications.
 
-## Current Projects
-- [ActivityRank](https://activityrank.me) • A Discord bot (used in 120,000 servers) to track the participation and activity of users
-- I've been [following](https://github.com/piemot/raytracing) Peter Shirley's [*Ray Tracing in One Weekend*](https://raytracing.github.io/)
-   series (of course, rewriting it in Rust 🦀)
-- [SpruceBytes](https://github.com/piemot/spruce) • a handbuilt Astro content-based site for course notes and blog posts
-- [`trello-to-github`](https://github.com/piemot/trello-to-github) • a fully-featured migration tool for moving Trello cards to GitHub Issues
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,rust,cpp" /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,python,ts" /><br />
-  <img src="https://skillicons.dev/icons?i=react,vue,svelte,astro" /><br />
-  <img src="https://skillicons.dev/icons?i=vite,github,docker,tailwind" /><br />
-</p>
+## Featured Projects
+- [ActivityRank](https://activityrank.me) • A distributed Discord application (used in 120,000 servers) to track the participation and activity of users
+- [Ray Tracing](https://github.com/piemot/raytracing) • A Rust adaptation of Peter Shirley's [*Ray Tracing in One Weekend*](https://raytracing.github.io/), with compile-time dimensional analysis and a set of accessible progress logs
+- [Amateur Radio Guide](https://github.com/piemot/amateur-radio-basic-guide) • An open-source study guide for the Canadian Amateur Radio exam
